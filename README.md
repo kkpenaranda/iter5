@@ -1,2 +1,2 @@
-# iter5
-lol
+# java-server
+Basic REST/JDBC server based on RedHat Wildfly
